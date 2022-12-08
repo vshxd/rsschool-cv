@@ -1,6 +1,9 @@
 # Vladislav Shults
-
 ## Junior Frontend developer
+
+### Born in Minsk, Belarus
+---
+
 
 #### Contact information
 
